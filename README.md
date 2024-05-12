@@ -1,1 +1,1 @@
-# TaxiFairPredictionUsingCATBoost
+# TaxiFarePredictionUsingCATBoost
